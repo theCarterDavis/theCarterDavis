@@ -44,7 +44,7 @@ A C++ implementation that simulates UNO card games to test and compare different
 - [View Project](https://github.com/theCarterDavis/UNO-Game-Simulator)
 
 ## 🛠️ Skills
-- **Languages**: Python, C++, Java, JavaScript
+- **Languages**: Python, C++, Java, SQL, SWIFT
 - **Machine Learning**: Deep Learning, YOLOv8, Computer Vision
 - **Web Development**: Flask, HTML/CSS
 - **Tools**: Git, CMake, OpenCV
@@ -55,8 +55,6 @@ A C++ implementation that simulates UNO card games to test and compare different
 - LinkedIn: [Carter Davis](https://www.linkedin.com/in/carter-davis)
 - GitHub: [@theCarterDavis](https://github.com/theCarterDavis)
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theCarterDavis&show_icons=true&theme=radical)
 
 ## 🌱 I'm currently learning
 - 3D Computer Vision
