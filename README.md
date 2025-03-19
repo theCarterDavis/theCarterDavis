@@ -31,7 +31,7 @@ A 2D platformer game with physics-based gameplay and a built-in level editor.
   - Physics-based gameplay with gravity and velocity
   - Various interactive tile types with unique behaviors
   - Space-themed visual aesthetic
-- [View Project](https://github.com/theCarterDavis/BUBBLES)
+- [View Project](https://github.com/theCarterDavis/Bubbles-Game)
 
 ### 🃏 UNO Game Simulator
 A C++ implementation that simulates UNO card games to test and compare different AI strategies.
