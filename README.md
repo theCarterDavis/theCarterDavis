@@ -10,7 +10,7 @@ A deep learning solution designed to identify bacterial strains from petri dish 
 - **Technologies**: Python, YOLOv8, FastSAM, Flask, OpenCV
 - **Features**: Instance segmentation, web application interface, mobile-friendly deployment
 - **Impact**: Provides cost-effective bacterial identification for resource-limited medical institutions
-- [View Project](https://github.com/theCarterDavis/bacterial-strain-identification)
+- [View Project]([https://github.com/theCarterDavis/bacterial-strain-identification](https://github.com/theCarterDavis/Identification-of-Bacterial-Strains-Using-a-Instance-Segmentation-Model))
 
 ### 👁️ Computer Vision Learning Projects
 A collection of mini-projects exploring different computer vision concepts and applications.
@@ -31,7 +31,7 @@ A 2D platformer game with physics-based gameplay and a built-in level editor.
   - Physics-based gameplay with gravity and velocity
   - Various interactive tile types with unique behaviors
   - Space-themed visual aesthetic
-- [View Project](https://github.com/theCarterDavis/BUBBLES)
+- [View Project]([https://github.com/theCarterDavis/BUBBLES](https://github.com/theCarterDavis/Bubbles-Game))
 
 ### 🃏 UNO Game Simulator
 A C++ implementation that simulates UNO card games to test and compare different AI strategies.
@@ -41,7 +41,7 @@ A C++ implementation that simulates UNO card games to test and compare different
   - Full implementation of standard UNO rules
   - Framework for creating and testing custom AI algorithms
   - Statistical analysis of AI performance
-- [View Project](https://github.com/theCarterDavis/UNO-Game-Simulator)
+- [View Project]([https://github.com/theCarterDavis/UNO-Game-Simulator](https://github.com/theCarterDavis/Uno-AI))
 
 ## 🛠️ Skills
 - **Languages**: Python, C++, Java, SQL, SWIFT
@@ -52,7 +52,7 @@ A C++ implementation that simulates UNO card games to test and compare different
 
 ## 📫 How to Reach Me
 - Email: cdavis0022@pointloma.edu
-- LinkedIn: [Carter Davis](https://www.linkedin.com/in/carter-davis)
+- LinkedIn: [Carter Davis](www.linkedin.com/in/carter-davis-79a8a8294)
 - GitHub: [@theCarterDavis](https://github.com/theCarterDavis)
 
 
