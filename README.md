@@ -52,7 +52,7 @@ A C++ implementation that simulates UNO card games to test and compare different
 
 ## 📫 How to Reach Me
 - Email: cdavis0022@pointloma.edu
-- LinkedIn: [Carter Davis](www.linkedin.com/in/carter-davis-79a8a8294)
+- LinkedIn: [Carter Davis](https://www.linkedin.com/in/carter-davis-79a8a8294)
 - GitHub: [@theCarterDavis](https://github.com/theCarterDavis)
 
 
